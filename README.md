@@ -1,5 +1,1 @@
-- 👋🏻 Hello there, I’m @marielacordeiro
-- 👀 I’m a life-long learner, always searching for ways to hone and improve my skills.
-- 🦋 I' currently studying software engineering in college.
-- 🌱 I’m currently learning React.js and also Java.
-- 📫 How to reach me marielapontescordeiro@gmail.com
+
